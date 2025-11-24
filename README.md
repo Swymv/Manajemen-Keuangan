@@ -4,7 +4,7 @@
 | NIM | Nama | Uss Github |
 |-----|------|------|
 | C-202210370311290 | Fajar Putra Pratama | Pajarrr2 |
-| C-202210370311297 | Fito Nurdiansyah |
+| C-202210370311297 | Fito Nurdiansyah | Swymv |
 
 ---
 
