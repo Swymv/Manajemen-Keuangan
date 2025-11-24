@@ -1,6 +1,6 @@
 # 📘 Manajemen Keuangan
 
-## 👥 Anggota Kelompok
+## Anggota Kelompok
 | NIM | Nama |
 |-----|------|
 | C-202210370311290 | Fajar Putra Pratama |
