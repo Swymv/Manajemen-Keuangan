@@ -9,13 +9,10 @@
 ---
 
 ## 🎨 Desain Figma
-Lihat desain proyek di Figma:  
-[Klik di sini untuk Figma](https://www.figma.com/design/ZkvjXx5gGYgdGtcdwdn3Up/Desain-Ri-C?node-id=0-1&p=f&t=ozbEovOT16lknV8C-0)
+https://www.figma.com/design/ZkvjXx5gGYgdGtcdwdn3Up/Desain-Ri-C?node-id=0-1&p=f&t=ozbEovOT16lknV8C-0
 
 ---
 
 ## 📂 Deskripsi Singkat
-Proyek *Manajemen Keuangan* dibuat sebagai bagian dari studi **Rekayasa Interaksi**.  
-Tujuan utama adalah membuat antarmuka pengguna yang intuitif, mudah digunakan, serta mendukung pencatatan dan pengelolaan keuangan secara terstruktur.
-
----
+Proyek **Manajemen Keuangan** dibuat sebagai bagian dari mata kuliah **Rekayasa Interaksi**.  
+Proyek ini bertujuan untuk merancang antarmuka pengguna yang intuitif, mudah digunakan, serta mendukung pengelolaan keuangan secara terstruktur.
