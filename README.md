@@ -19,11 +19,3 @@ Proyek *Manajemen Keuangan* dibuat sebagai bagian dari studi **Rekayasa Interaks
 Tujuan utama adalah membuat antarmuka pengguna yang intuitif, mudah digunakan, serta mendukung pencatatan dan pengelolaan keuangan secara terstruktur.
 
 ---
-
-## 📁 Struktur Proyek (Opsional)
-Jika kamu ingin menambahkan struktur folder atau file, bagian ini bisa diisi agar lebih rapi dan informatif.
-
----
-
-## 🚀 Cara Menjalankan Proyek (Opsional)
-Jika repositori berisi kode yang bisa dijalankan, bagian ini bisa berisi langkah-langkah setup dan run project.
