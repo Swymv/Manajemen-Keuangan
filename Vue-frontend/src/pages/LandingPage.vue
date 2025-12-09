@@ -4,7 +4,7 @@
     <!-- ================= NAVBAR ================= -->
     <nav class="navbar">
       <div class="nav-left">
-        <h2 class="brand">KeuanganKu</h2>
+        <h2 class="brand">KeuanganKita</h2>
       </div>
 
       <div class="nav-right">
