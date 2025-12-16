@@ -1,0 +1,14 @@
+{
+  "name": "manajemen-keuangan",
+  "version": "1.0.0",
+  "description": "Aplikasi Manajemen Keuangan",
+  "workspaces": [
+    "Vue-frontend",
+    "laravel-backend"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=Vue-frontend",
+    "build": "npm run build --workspace=Vue-frontend",
+    "preview": "npm run preview --workspace=Vue-frontend"
+  }
+}
